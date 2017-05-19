@@ -22,7 +22,15 @@ Requirements
 Usage
 -----
 ### Setup
-- Install the dependencies: *npm install*
+- Install the dependencies: 
+
+  *npm install*
+  
+  *npm install --save prop-types*
+  
+  *npm install --save history*
+  
+  *npm install --save fbjs*
 
 ### Development
 - Run Webpack development server: *npm start*
